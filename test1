@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>CBIS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!--<img src="Design2.jpg" width = "50%" alt="company logo" title="CBIS" class="thumbnail"/> -->
+
+<a href="http://www.apple.com"><i class="fab fa-apple fa-3x"></i></a>
+<table>
+    <tr style="color: blue"><th>Row One</th><th>Row Two</th><th>Row Three</th></tr>
+    <tr style="color: green"><td>One</td><td>Two</td><td>Three</td></tr>
+    <tr><td>6</td><td>7</td><td>8</td></tr>
+    <tr><td>Seven</td><td>Two</td><td>Three</td></tr>
+</table>
+</body id="top">
+
+<h1>
+    <a href="index.html">Style Conference</a>
+    <p>I want to check my header 1</p>
+</h1>
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="speakers.html">Speakers</a>
+        <a href="schedule.html">Schedule</a>
+        <a href="venue.html">Venue</a>
+        <a href="register.html">Register</a>
+    </nav>
+</header>
+
+<!-- CSS Comments /* and end with */ -->
+
+<section>
+    <a href="speakers.html">
+        <h5>Speakers</h5>
+        <h3>World-Class Speakers</h3>
+    </a>
+    <p><big> Joining us </big> from all around the world are over twenty fantastic speakers, here to share their stories.</p>
+    <abbr>ABB</abbr>
+</section>
+
+<footer>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="speakers.html">Speakers</a>
+        <a href="schedule.html">Schedule</a>
+        <a href="venue.html">Venue</a>
+        <a href="register.html">Register</a>       
+    </nav>
+</footer>
+
+<h2>Self-Closing Elements <br> <img> <meta></h2>
+<h3>HTML will define the content and structure of our web pages, while CSS will define the viusal style and appearance of our web pages</h3>
+    <h4>
+    </h4>
+    <h5>
+    </h5>
+    <h6>
+    </h6>
+<p id="Caution"><strong>Caution:</strong> Falling rocks.</p>
+<p>This recipe calls for <b>bacon</b> and <b>baconnaise</b>. </p>
+<a href="http://shayhowe.com">Shay Howe
+    </a>
+    <br>
+<a href="mailto:shay@awesome.com?subject=Reaching%20Out&body=How%20are%20you">Email Me </a> <br>
+<a href="http://www.google.com" target="_blank">Google</a> <br>
+<a href="#Caution">Back to caution</a>
+<div>
+</div>
+<span>
+    </span>
+<strong>
+</strong>
+<em>
+    </em>
+</html>
